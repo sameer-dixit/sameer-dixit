@@ -1,4 +1,4 @@
-![logo]([https://github.com/sameer-dixit/sameer-dixit/blob/main/1681008294893.jpeg](https://media.licdn.com/dms/image/D5616AQEWiVDqfDNnog/profile-displaybackgroundimage-shrink_350_1400/0/1691869928889?e=1697673600&v=beta&t=TCIecKICMwAGgfsmdVKfsGsLwdPYwXg3DQoBlf5nYGg))
+![logo]([[https://github.com/sameer-dixit/sameer-dixit/blob/main/1681008294893.jpeg](https://media.licdn.com/dms/image/D5616AQEWiVDqfDNnog/profile-displaybackgroundimage-shrink_350_1400/0/1691869928889?e=1697673600&v=beta&t=TCIecKICMwAGgfsmdVKfsGsLwdPYwXg3DQoBlf5nYGg)](https://github.com/sameer-dixit/sameer-dixit/blob/main/Screenshot%20(188).png?raw=true))
 <h1 align="center">Hi 👋, I'm Sameer Dixit</h1>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
